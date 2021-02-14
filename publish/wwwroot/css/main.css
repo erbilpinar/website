@@ -1,0 +1,15 @@
+.header {
+    background-image: url('https://th.bing.com/th/id/OIP.CZ2QYeIUuXB8u9p4tifg8gHaEK?pid=ImgDet&rs=1');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
